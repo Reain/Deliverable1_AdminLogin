@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<!--
+<div class="row">
+    <h1>Special Needs Camporee Portal Page</h1>
+    <p class="lead"> Please select feature below:</p>
+    <p></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+
+        <a href="/Account/Login">SNCRS Admin Login Page</a>
+
+    </div>
+    <div class="col-md-4">
+       
+    </div>
+    <div class="col-md-4">
+        
+    </div>
+</div>
+    -->
+
+@using Microsoft.AspNet.Identity
+
+@{
+    ViewBag.Title = "Login-Post";
+    var userName = User.Identity.GetUserName();
+}
+
+
+
+
+
+@if (Request.IsAuthenticated)
+{
+       
+    <h1>Welcome @userName, to the Special Needs Camporee Admin Page</h1>
+    <h2>Please select an option below:</h2>
+    <h4>- Placeholder</h4>
+    <h4>- Placeholder</h4>
+    <h4>- Placeholder</h4>
+}
+else
+{
+    <div class="row">
+        <h1>Special Needs Camporee Portal Page</h1>
+        <p class="lead"> Please select feature below:</p>
+        <p></p>
+    </div>
+
+    <a href="/Account/Login">SNCRS Admin Login Page</a>
+}

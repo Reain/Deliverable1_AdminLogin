@@ -1,0 +1,21 @@
+﻿@using Microsoft.AspNet.Identity
+
+@{
+    ViewBag.Title = "Login-Post";
+    var userName = User.Identity.GetUserName();
+}
+
+
+
+<h2>@userName</h2>
+
+@if (Request.IsAuthenticated)
+{
+
+    <h2>Welcome @userName!</h2>
+}
+else
+{
+    <h2>Invalid Access Please Log in.</h2>
+    <a href="/Account/Login">SNCRS Admin Login Page</a>
+}

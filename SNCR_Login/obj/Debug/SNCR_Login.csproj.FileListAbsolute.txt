@@ -1,0 +1,164 @@
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\ApplicationInsights.config
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\roslyn\csc.exe
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\roslyn\System.Collections.Immutable.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\roslyn\System.Reflection.Metadata.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\roslyn\vbc.exe
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\roslyn\VBCSCompiler.exe
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\roslyn\VBCSCompiler.exe.config
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\SNCR_Login.dll.config
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\SNCR_Login.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\SNCR_Login.pdb
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Antlr3.Runtime.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\EntityFramework.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\EntityFramework.SqlServer.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.AI.DependencyCollector.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.AI.Web.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.AI.WindowsServer.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.ApplicationInsights.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.Security.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.Security.Google.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Web.Infrastructure.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Newtonsoft.Json.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Owin.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\System.Web.Helpers.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\System.Web.Mvc.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\System.Web.Optimization.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\System.Web.Razor.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\System.Web.WebPages.Deployment.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\System.Web.WebPages.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\System.Web.WebPages.Razor.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\WebGrease.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.AI.DependencyCollector.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.AI.Web.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.AI.WindowsServer.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.ApplicationInsights.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\System.Web.Helpers.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\System.Web.Mvc.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\System.Web.Optimization.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\System.Web.Razor.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\System.Web.WebPages.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\System.Web.WebPages.Deployment.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\System.Web.WebPages.Razor.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Antlr3.Runtime.pdb
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Newtonsoft.Json.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\EntityFramework.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\EntityFramework.SqlServer.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.Security.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.Security.Google.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\obj\Debug\SNCR_Login.csprojResolveAssemblyReference.cache
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\obj\Debug\SNCR_Login.dll
+F:\Library Files\Documents\Visual Studio 2015\Projects\SNCR_Login\SNCR_Login\obj\Debug\SNCR_Login.pdb
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\ApplicationInsights.config
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\roslyn\csc.exe
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\roslyn\System.Collections.Immutable.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\roslyn\System.Reflection.Metadata.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\roslyn\vbc.exe
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\roslyn\VBCSCompiler.exe
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\roslyn\VBCSCompiler.exe.config
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\SNCR_Login.dll.config
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\SNCR_Login.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\SNCR_Login.pdb
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Antlr3.Runtime.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\EntityFramework.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\EntityFramework.SqlServer.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.AI.DependencyCollector.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.AI.Web.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.AI.WindowsServer.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.ApplicationInsights.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.Security.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.Security.Google.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Web.Infrastructure.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Newtonsoft.Json.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Owin.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\System.Web.Helpers.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\System.Web.Mvc.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\System.Web.Optimization.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\System.Web.Razor.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\System.Web.WebPages.Deployment.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\System.Web.WebPages.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\System.Web.WebPages.Razor.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\WebGrease.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.AI.DependencyCollector.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.AI.Web.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.AI.WindowsServer.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.ApplicationInsights.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\System.Web.Helpers.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\System.Web.Mvc.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\System.Web.Optimization.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\System.Web.Razor.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\System.Web.WebPages.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\System.Web.WebPages.Deployment.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\System.Web.WebPages.Razor.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Antlr3.Runtime.pdb
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Newtonsoft.Json.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\EntityFramework.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\EntityFramework.SqlServer.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.Security.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.Security.Google.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\obj\Debug\SNCR_Login.csprojResolveAssemblyReference.cache
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\obj\Debug\SNCR_Login.dll
+F:\Library Files\Documents\GitHub\Deliverable1_AdminLogin\SNCR_Login\obj\Debug\SNCR_Login.pdb
